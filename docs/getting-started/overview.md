@@ -25,7 +25,7 @@ The Zowe Application Framework modernizes and simplifies working on the mainfram
 
 The Zowe Application Framework consists of the following components:
 
-- **Zowe Desktop**
+- **Zowe Desktop*
 
     The desktop, accessed through a browser.
 
